@@ -1,0 +1,20 @@
+Source: kiriki
+Priority: extra
+Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
+Build-Depends: cmake,
+               debhelper (>= 8.0.0),
+               kdelibs5-dev (>= 4:4.9.80),
+               libkdegames-dev (>= 4:4.9.80),
+               pkg-kde-tools
+Standards-Version: 3.9.3
+Section: libs
+Homepage: http://www.kde.org
+
+Package: kiriki
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, kdegames-data
+Description: Yahtzee dice game
+ Kiriki is a dice game for up to six players, where each player rolls five dice
+ to make combinations with the highest score.
+ .
+ This package is part of the KDE games module.
