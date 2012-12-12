@@ -12,7 +12,7 @@ Homepage: http://www.kde.org
 
 Package: kiriki
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, kdegames-data
+Depends: ${shlibs:Depends}, ${misc:Depends}, kdegames-data (>= ${source:Upstream-Version})
 Description: Yahtzee dice game
  Kiriki is a dice game for up to six players, where each player rolls five dice
  to make combinations with the highest score.
