@@ -1,6 +1,5 @@
-kiriki (4:4.10.2-1) UNRELEASED; urgency=low
+kiriki (4:4.10.2-1) experimental; urgency=low
 
   * First release of kdegames after being split by upstream.
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 09 Apr 2013 19:24:35 +0200
-
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 09 Apr 2013 19:59:28 +0200
