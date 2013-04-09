@@ -1,0 +1,16 @@
+.TH KIRIKI 6
+.SH NAME
+kiriki \- A Yahtzee dice game for KDE
+.SH SYNOPSIS
+.B kiriki
+.I [Qt-options] [KDE-options]
+.SH DESCRIPTION
+.B kiriki
+Kiriki is a dice game for up to six players, where each player rolls five dice
+to make combinations with the highest score.
+.so kdeopt.part
+.SH SEE ALSO
+More detailed user documentation is available from
+.BR help:/kiriki
+(either enter this URL into \fBkonqueror\fP, or run `khelpcenter
+help:/kiriki').
