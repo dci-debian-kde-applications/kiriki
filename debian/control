@@ -24,7 +24,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/kiriki.git
 Package: kiriki
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Recommends: khelpcenter
+Recommends: khelpcenter4
 Description: Yahtzee dice game
  Kiriki is a dice game for up to six players, where each player rolls five dice
  to make combinations with the highest score.
