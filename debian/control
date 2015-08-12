@@ -2,7 +2,6 @@ Source: kiriki
 Section: games
 Priority: optional
 Maintainer: Debian/Ubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-X-Ubuntu-Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
 Uploaders: Daniel Schepler <schepler@debian.org>,
            Sune Vuorela <sune@debian.org>,
            Fathi Boudra <fabo@debian.org>,
@@ -15,8 +14,6 @@ Build-Depends: cmake (>= 2.8.12),
                debhelper (>= 9),
                extra-cmake-modules,
                libkf5kdegames-dev,
-               libkf5kdegames6,
-               libkf5kdegamesprivate1,
                libkf5kdelibs4support-dev,
                libqt5svg5-dev,
                pkg-kde-tools (>= 0.15.15ubuntu1~)
