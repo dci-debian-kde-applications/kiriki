@@ -1,8 +1,12 @@
-kiriki (4:15.07.80-0ubuntu1) UNRELEASED; urgency=medium
+kiriki (4:15.07.90-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Aaron Honeycutt ]
   * Port pacakging to KF5
 
- -- Aaron Honeycutt <aaronhoneycutt@kubuntu.org>  Tue, 11 Aug 2015 21:55:18 +0000
+  [ Jonathan Riddell ]
+  * new upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 13 Aug 2015 11:18:19 +0100
 
 kiriki (4:15.04.2-0ubuntu1) wily; urgency=medium
 
