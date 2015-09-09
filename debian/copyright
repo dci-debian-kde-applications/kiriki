@@ -5,17 +5,16 @@ Upstream-Contact: Albert Astals Cid <aacid@kde.org>
 Source: http://www.kde.org/download/
 
 Files: *
-Copyright: 2005-2007, Albert Astals Cid <aacid@kde.org>
+Copyright: 2005-2008, Albert Astals Cid <aacid@kde.org>
+           1989-1991, Free Software Foundation, Inc
+           2013, Ian Simpson <ian.kdedev@yahoo.com>
+           1998, the Free Software Foundation
 License: GPL-2+
 
 Files: doc/*
 Copyright: 2005-2007, Albert Astals Cid <aacid@kde.org>
+           2007, Eugene Trounev <eugene.trounev@gmail.com>
 License: GFDL-1.2+
-
-Files: src/computer.cpp
-Copyright: 1998, the Free Software Foundation
-           2005-2007, Albert Astals Cid <aacid@kde.org>
-License: GPL-2+
 
 Files: debian/*
 Copyright: 2007-2013, Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
