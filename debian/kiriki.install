@@ -2,6 +2,7 @@
 ../icons/kiriki.xpm /usr/share/pixmaps
 usr/games/kiriki
 usr/share/applications/org.kde.kiriki.desktop
+usr/share/appdata/org.kde.kiriki.appdata.xml
 usr/share/doc/HTML/en/kiriki/
 usr/share/icons/hicolor/128x128/apps/kiriki.png
 usr/share/icons/hicolor/16x16/apps/kiriki.png
