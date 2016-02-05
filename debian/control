@@ -10,16 +10,27 @@ Uploaders: Daniel Schepler <schepler@debian.org>,
            Eshat Cakar <info@eshat.de>,
            Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>,
            Maximiliano Curia <maxy@debian.org>
-Build-Depends: cmake (>= 2.8.12),
+Build-Depends: cmake (>= 2.8.12~),
                debhelper (>= 9),
-               extra-cmake-modules,
-               libkf5kdegames-dev,
+               extra-cmake-modules (>= 1.7.0~),
+               kdoctools-dev,
+               kio-dev,
+               libkf5config-dev,
+               libkf5configwidgets-dev,
+               libkf5coreaddons-dev,
+               libkf5dbusaddons-dev,
+               libkf5guiaddons-dev,
+               libkf5i18n-dev,
+               libkf5iconthemes-dev,
+               libkf5kdegames-dev (>= 4.9.0~),
                libkf5kdelibs4support-dev,
-               libqt5svg5-dev,
-               pkg-kde-tools (>= 0.15.15ubuntu1~)
-Standards-Version: 3.9.6
+               libkf5xmlgui-dev,
+               libqt5svg5-dev (>= 5.3.0~),
+               pkg-kde-tools (>= 0.14),
+               qtbase5-dev (>= 5.3.0~)
+Standards-Version: 3.9.5
 Homepage: http://games.kde.org/
-Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/kiriki.git
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/applications/kiriki.git
 Vcs-Git: git://anonscm.debian.org/pkg-kde/applications/kiriki.git
 
 Package: kiriki
