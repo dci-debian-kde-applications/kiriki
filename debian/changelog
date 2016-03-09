@@ -1,8 +1,8 @@
-kiriki (4:15.12.1-1ubuntu1) UNRELEASED; urgency=medium
+kiriki (4:15.12.1-1ubuntu1) xenial; urgency=medium
 
   * Debian merge: No remaining changes. 
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 05 Feb 2016 11:12:57 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 10:48:01 +0100
 
 kiriki (4:15.12.1-1) experimental; urgency=medium
 
