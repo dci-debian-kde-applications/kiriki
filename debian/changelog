@@ -1,3 +1,11 @@
+kiriki (4:15.12.3-1~1.gbp3a4c3f) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @3a4c3f61fc5be45a597de06fea744d729fc3ca78 **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:44:47 +0200
+
 kiriki (4:15.12.1-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
