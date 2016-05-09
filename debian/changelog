@@ -1,11 +1,20 @@
-kiriki (4:16.04.0-1~1.gbp27ed81) UNRELEASED; urgency=medium
+kiriki (4:16.04.0-1~2.gbp2576d4) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @2576d4839f02a1c72a8f04908aaaddd0d65a99c7 **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @27ed818d2a018cfb5e9fc6d63f06aeb4661b4f8b **
 
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 02:44:13 +0200
+  [ Maximiliano Curia ]
+  * Remove menu file and friends
+  * New upstream release (15.12.2).
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 13:38:34 +0200
 
 kiriki (4:15.12.1-1) experimental; urgency=medium
 
