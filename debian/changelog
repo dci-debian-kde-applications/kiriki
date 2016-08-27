@@ -1,6 +1,6 @@
-kiriki (4:16.08.0-0r1) UNRELEASED; urgency=medium
+kiriki (4:16.08.0-1) unstable; urgency=medium
 
-  [ Pino Toscano ]
+  * Team upload.
   * New upstream release.
   * Change the watch file to look for stable releases only.
   * Stop forcing the local installation to debian/tmp, letting the package
@@ -9,7 +9,7 @@ kiriki (4:16.08.0-0r1) UNRELEASED; urgency=medium
   * Remove unused build dependencies: kio-dev, libkf5guiaddons-dev,
     libkf5kdelibs4support-dev, and libqt5svg5-dev.
 
- -- Debian/Ubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 27 Aug 2016 15:09:22 +0200
+ -- Pino Toscano <pino@debian.org>  Sat, 27 Aug 2016 15:24:53 +0200
 
 kiriki (4:16.04.0-1) unstable; urgency=medium
 
