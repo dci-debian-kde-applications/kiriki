@@ -1,3 +1,10 @@
+kiriki (4:16.08.0-0r1) UNRELEASED; urgency=medium
+
+  [ Pino Toscano ]
+  * New upstream release.
+
+ -- Debian/Ubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 27 Aug 2016 15:09:22 +0200
+
 kiriki (4:16.04.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
