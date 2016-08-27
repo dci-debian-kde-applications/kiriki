@@ -3,6 +3,9 @@ kiriki (4:16.08.0-0r1) UNRELEASED; urgency=medium
   [ Pino Toscano ]
   * New upstream release.
   * Change the watch file to look for stable releases only.
+  * Stop forcing the local installation to debian/tmp, letting the package
+    directory as install place. (Closes: #835399)
+    - remove kiriki.install, no more used now
 
  -- Debian/Ubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 27 Aug 2016 15:09:22 +0200
 
