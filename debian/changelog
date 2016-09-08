@@ -1,3 +1,11 @@
+kiriki (4:16.08.1-1~1.gbp5088c7) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @5088c7d488302591f6fc57a4f9615a2a0ca8d382 **
+
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 20:44:34 +0200
+
 kiriki (4:16.08.0-1) unstable; urgency=medium
 
   * Team upload.
