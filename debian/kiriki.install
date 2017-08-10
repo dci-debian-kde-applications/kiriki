@@ -1,6 +1,6 @@
 usr/games/kiriki
 usr/share/applications/org.kde.kiriki.desktop
-usr/share/doc/HTML/en/kiriki/
+usr/share/doc/HTML/*/kiriki/
 usr/share/icons/hicolor/128x128/apps/kiriki.png
 usr/share/icons/hicolor/16x16/apps/kiriki.png
 usr/share/icons/hicolor/22x22/apps/kiriki.png
@@ -9,4 +9,5 @@ usr/share/icons/hicolor/48x48/apps/kiriki.png
 usr/share/icons/hicolor/64x64/apps/kiriki.png
 usr/share/kiriki/*
 usr/share/kxmlgui5/kiriki/kirikiui.rc
+usr/share/locale/
 usr/share/metainfo/org.kde.kiriki.appdata.xml
