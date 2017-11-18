@@ -10,6 +10,7 @@ kiriki (4:17.08.3-1~1) UNRELEASED; urgency=medium
   * Bump Standards-Version to 4.1.1, no changes required.
   * Simplify watch file, and switch it to https.
   * Remove unused kdoctools-dev build dependency.
+  * Remove trailing whitespaces in changelog.
 
  -- Pino Toscano <pino@debian.org>  Sat, 18 Nov 2017 11:21:35 +0100
 
@@ -89,7 +90,7 @@ kiriki (4:15.04.2-0ubuntu1) wily; urgency=medium
 
   [ Scarlett Clark ]
   * New upstream release
-  * kde4 games need to depend on 14.12 series libkdegames. 
+  * kde4 games need to depend on 14.12 series libkdegames.
 
   [ Jonathan Riddell ]
   * New upstream release
@@ -123,12 +124,12 @@ kiriki (4:14.11.97-0ubuntu1) vivid; urgency=medium
 
 kiriki (4:14.11.95-0ubuntu1) vivid; urgency=medium
 
-  * Initial release for KDE applications 14.12 series 
+  * Initial release for KDE applications 14.12 series
    - Change maintainer to Debian/Kubuntu
    - Remove X-Ubuntu entries no longer applicable.
-   - Fix Watch file applications locations 
+   - Fix Watch file applications locations
    - Fix VCS for new kde-applications location
-  * Debian merge, no remaining changes. 
+  * Debian merge, no remaining changes.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 25 Nov 2014 20:33:17 +0000
 
