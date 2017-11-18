@@ -6,8 +6,7 @@ kiriki (4:17.08.3-1~1) UNRELEASED; urgency=medium
 
   [ Pino Toscano ]
   * New upstream release.
-  * Adjust l10npkgs_firstversion_ok to the version where kde-l10n will
-    drop translations.
+  * Add breaks/replaces against kde-l10n, as picmi carries translations now.
   * Bump Standards-Version to 4.1.1, no changes required.
   * Simplify watch file, and switch it to https.
 
